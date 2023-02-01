@@ -12,3 +12,6 @@ The Cube class has two constructors. One takes no arguments (has no parameters) 
 You will need to add JUnit4 to your classpath. Hover your cursor over the red coloured 'junit' within the import statement on line 1 and click on 'Add 'JUnit4' to classpath'.
 
 ![image](https://user-images.githubusercontent.com/57818506/211691173-8ca1e0dc-243b-46a9-8f1f-2383da09c169.png)
+
+Name: Dominic G 
+Partner: Julian S
